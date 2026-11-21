@@ -2,4 +2,4 @@
 
 Software developer portfolio with a Three.js sculpture, scroll animations, and interactive project case studies.
 
-Serve the repository root with a static HTTP server, for example `python -m http.server 8000`, then open `http://localhost:8000`.
+Run `python -m http.server 8000` from the repository root and open `http://localhost:8000`.
